@@ -6,7 +6,7 @@
 </p>
 
 🌐 Sosial Media
-<p align="center"> <a href="https://instagram.com/hanz_xyz14" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://linkedin.com/in/username" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:justhanz858@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://t.me/onlyhanz2" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://instagram.com/hanz_xyz14" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://linkedin.com/in/raihan-ramadhani-239ab126b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:justhanz858@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://t.me/onlyhanz2" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p>
 
 ---
 
@@ -14,6 +14,11 @@
 - ✅ **Instalasi Python** → [Download di sini](https://www.python.org/downloads/)
 - ✅ **Pilih Code Editor** → Rekomendasi: [VS Code](https://code.visualstudio.com/) atau [PyCharm](https://www.jetbrains.com/pycharm/)
 - ✅ **Pelajari Dasar Terminal** → Jalankan file dengan `python main.py`
+
+## 📚 Referensi
+- **Python Docs** → [Klik di sini](https://docs.python.org/3/)
+- **Real Python** → [Klik di sini]([https://docs.python.org/3/](https://realpython.com/))
+- **PW3School** → [Klik di sini]([https://docs.python.org/3/](https://www.w3schools.com/python/))
 
 ---
 
