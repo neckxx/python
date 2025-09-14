@@ -17,8 +17,8 @@
 
 ## 📚 Referensi
 - **Python Docs** → [Klik di sini](https://docs.python.org/3/)
-- **Real Python** → [Klik di sini]([https://docs.python.org/3/](https://realpython.com/))
-- **PW3School** → [Klik di sini]([https://docs.python.org/3/](https://www.w3schools.com/python/))
+- **Real Python** → [Klik di sini](https://realpython.com/)
+- **PW3School** → [Klik di sini](https://www.w3schools.com/python/)
 
 ---
 
