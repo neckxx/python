@@ -16,9 +16,9 @@
 - ✅ **Pelajari Dasar Terminal** → Jalankan file dengan `python main.py`
 
 ## 📚 Referensi
-- **Python Docs** → [Klik di sini](https://docs.python.org/3/)
-- **Real Python** → [Klik di sini](https://realpython.com/)
-- **PW3School** → [Klik di sini](https://www.w3schools.com/python/)
+- 🔗 **Python Docs** → [Klik di sini](https://docs.python.org/3/)
+- 🔗 **Real Python** → [Klik di sini](https://realpython.com/)
+- 🔗 **W3School** → [Klik di sini](https://www.w3schools.com/python/)
 
 ---
 
