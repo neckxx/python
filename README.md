@@ -50,5 +50,5 @@
  ┣ 📂 11-oop-dasar
  ┣ 📂 12-proyek-mini
  ┗ 📜 README.md
-
-<p align="center">⭐ Jangan lupa kasih <b>Star</b> di repo ini kalau roadmap ini membantu! ⭐</p> ```
+```
+<p align="center">⭐ Jangan lupa kasih <b>Star</b> di repo ini kalau roadmap ini membantu! ⭐</p>
